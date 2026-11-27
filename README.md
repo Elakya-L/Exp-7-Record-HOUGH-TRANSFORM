@@ -1,4 +1,4 @@
-## HOUGH TRANSFORM
+## EX-7 HOUGH TRANSFORM
 ## Name: ELAKYA L
 ## Reg No: 212225230066
 ## Aim
@@ -89,6 +89,10 @@ plt.show()
 ```
 
 ## Output
+**Input image**
+
+<img width="155" height="160" alt="image" src="https://github.com/user-attachments/assets/fac69816-5e7d-40b1-b7ea-2ba1135a776a" />
+
 **Grayscale image**
 
 <img width="166" height="209" alt="image" src="https://github.com/user-attachments/assets/9d8c3fca-9935-455f-a389-805d0476c39f" />
